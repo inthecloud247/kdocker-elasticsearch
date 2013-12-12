@@ -1,4 +1,4 @@
-KDocker-Elasticsearch
+kdocker-elasticsearch
 =====================
 
 ElasticSearch running in Docker
