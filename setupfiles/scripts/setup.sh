@@ -3,6 +3,7 @@
 set -e
 
 CACHEDIR="/setupfiles/cache"
+mkdir -p $CACHEDIR
 cd $CACHEDIR
 
 # download files
