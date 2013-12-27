@@ -20,4 +20,3 @@ EXPOSE 9200
 EXPOSE 9300
 
 CMD ["/usr/bin/supervisord", "--nodaemon"]
-
